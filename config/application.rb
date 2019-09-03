@@ -28,7 +28,7 @@ module GeneratorApp
       g.test_framework  :test_unit, fixture: false
       g.stylesheets     false
       g.javascripts     true
-      g.scaffold_stylesheet false
+      g.scaffold_stylesheet false      
     end
 
     # Settings in config/environments/* take precedence over those specified here.
